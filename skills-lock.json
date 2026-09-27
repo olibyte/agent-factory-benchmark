@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "skills": {
+    "architect": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/architect/SKILL.md",
+      "computedHash": "d8df52a49cbef40fba3f3bd3ac7898b9b523d89c26a1e63356083d05bcfa400a"
+    },
+    "arena": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/arena/SKILL.md",
+      "computedHash": "671f16aaa9e81acda0a953b4fc7dfbcf5b326a09cd04b47c197c6e68b47cf3f5"
+    },
+    "blast-radius": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/blast-radius/SKILL.md",
+      "computedHash": "9a503131adab9eb720b6e419f8d4981a96ad857e67c1a2b367599c2ff745deb0"
+    },
+    "bro": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/bro/SKILL.md",
+      "computedHash": "c85a27cd03be6310e8202e543f9a9f9b59d33a3cc94f4017f0cbf6036db664a1"
+    },
+    "handoff": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/handoff/SKILL.md",
+      "computedHash": "b5a1130785b1716d234646f417272d08a4e63e627bb8907009288eac57333d2c"
+    },
+    "how": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/how/SKILL.md",
+      "computedHash": "f97ed0f45939326dec000082bc73211b040dabbb16f06318d96ed2e9cc672eba"
+    },
+    "next-cache-components-adoption": {
+      "source": "vercel/next.js",
+      "ref": "a758ffcf501f6f1ddb03175bd1033508424c261e",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-adoption/SKILL.md",
+      "computedHash": "41bc0b6a4cccf16ce53e59124ff9e0cbbfcc73c21cab663128405f3029dd298f"
+    },
+    "next-cache-components-optimizer": {
+      "source": "vercel/next.js",
+      "ref": "a758ffcf501f6f1ddb03175bd1033508424c261e",
+      "sourceType": "github",
+      "skillPath": "skills/next-cache-components-optimizer/SKILL.md",
+      "computedHash": "4b3ec1ad99551a98d2fefdaefdb398f88e1621e06fb250f7c06858d5371cb5aa"
+    },
+    "next-dev-loop": {
+      "source": "vercel/next.js",
+      "ref": "a758ffcf501f6f1ddb03175bd1033508424c261e",
+      "sourceType": "github",
+      "skillPath": "skills/next-dev-loop/SKILL.md",
+      "computedHash": "d2a697a0a0429cad0bb7264644115457f588d4ed1007eeb0bb7f965b1185fa6e"
+    },
+    "next-partial-prefetching-adoption": {
+      "source": "vercel/next.js",
+      "ref": "a758ffcf501f6f1ddb03175bd1033508424c261e",
+      "sourceType": "github",
+      "skillPath": "skills/next-partial-prefetching-adoption/SKILL.md",
+      "computedHash": "0e8e6cfdc21684b7a359ffc5bbe1ba3b7ae7f26a068b9e7dc6b1d0f170c9e98d"
+    },
+    "no-comments": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/no-comments/SKILL.md",
+      "computedHash": "37345ab23566b04b42f4d4fe5d73c63a53bdaa4d8b351e4a3f2d996d54a5eb1a"
+    },
+    "poteto-mode": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/poteto-mode/SKILL.md",
+      "computedHash": "5195e1d9b46580daaf78c75a545e9e3d98612df2a063168b74aa872123d3f145"
+    },
+    "principles": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/principles/SKILL.md",
+      "computedHash": "fcd0a9d0c54801cbf9242abf5271a00eaae0428b5eb389d1631d56fb2efd53fb"
+    },
+    "show-me-your-work": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/show-me-your-work/SKILL.md",
+      "computedHash": "3c12d1c8460c6cb402a543357bba2e0a268cbbc6d40cd31689d9471a3be31e44"
+    },
+    "tdd": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/tdd/SKILL.md",
+      "computedHash": "27be82c29c61797ffaec742420b68d08491375c905a070a8b16fc286931d391b"
+    },
+    "teach": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/teach/SKILL.md",
+      "computedHash": "57f17ae67615bfed60628c28dde3101cbb8ce3ff66be5776f3f30af121009710"
+    },
+    "technical-writing": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/technical-writing/SKILL.md",
+      "computedHash": "4340f7ce7b052e150d70a6bea739593629d1cc76743cb0d1bded11a0a2fe25a1"
+    },
+    "unslop": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/unslop/SKILL.md",
+      "computedHash": "d325a618d06aa0fc1b7ffda11992b05d86408995a14d463f00e3c4d3f88b2daa"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "ref": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "sourceType": "github",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "computedHash": "f98931159fa9c7fed043bcd18a891a46dcf89ababa38df13a4c5b7b30dc0ce07"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "ref": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "3219a1944e404ffc14d1d9d6aef6dd2e3855b81387ee0a044ccbfe14d34c2357"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "ref": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
+    },
+    "why": {
+      "source": "olibyte/agent-toolkit",
+      "ref": "3a69c94ae8a0b5990a1c13aeb0f8e978269f6756",
+      "sourceType": "github",
+      "skillPath": "skills/why/SKILL.md",
+      "computedHash": "dd68207a6112696f8bde25102b25f4ba1c27b780d902445f378823eb4a899443"
+    }
+  }
+}
